@@ -5,6 +5,7 @@ const repos = [
   "git@github.com:elixir-lang/elixir",
   "git@github.com:mui/material-ui",
   "git@github.com:vercel/next.js",
+  "git@github.com:TanStack/query",
 ];
 
 repos.forEach((repo) => {
