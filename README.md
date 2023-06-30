@@ -6,5 +6,6 @@ A script to pull down repos with interesting source code, and an umbrella direct
 
 - `elixir-lang/elixir`
 - `mui/material-ui`
+- `tailwindlabs/tailwindcss`
 - `TanStack/query`
 - `vercel/next.js`
