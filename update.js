@@ -1,0 +1,15 @@
+#!/usr/bin/env node
+const childProcess = require("child_process");
+
+const repos = [
+  "git@github.com:elixir-lang/elixir",
+  "git@github.com:mui/material-ui",
+  "git@github.com:vercel/next.js",
+];
+
+repos.forEach((repo) => {
+  const [_, name] = repo.split("/");
+  console.log(`Updating ${name}...`);
+  const cmd = `(cd ${name} && git pull) || git clone ${repo}`;
+  childProcess.execSync(cmd, { stdio: "inherit" });
+});

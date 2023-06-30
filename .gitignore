@@ -1,0 +1,7 @@
+# filesystem detritus
+.DS_Store
+
+# repos
+/elixir
+/material-ui
+/next.js
