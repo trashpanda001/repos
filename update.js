@@ -3,7 +3,7 @@ const childProcess = require("child_process");
 
 const repos = [
   "git@github.com:elixir-lang/elixir",
-  "git@github.com:framer/motion.git",
+  "git@github.com:framer/motion",
   "git@github.com:mui/material-ui",
   "git@github.com:vercel/next.js",
   "git@github.com:tailwindlabs/tailwindcss",
