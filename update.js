@@ -13,6 +13,6 @@ const repos = [
 repos.forEach((repo) => {
   const [_, name] = repo.split("/");
   console.log(`Updating ${name}...`);
-  const cmd = `(cd ${name} && git pull) || git clone ${repo}`;
+  const cmd = `(cd ${name} && git pull) || git clone ${repo} || git gc`;
   childProcess.execSync(cmd, { stdio: "inherit" });
 });
