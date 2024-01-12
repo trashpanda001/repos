@@ -5,6 +5,7 @@ const repos = [
   "git@github.com:elixir-lang/elixir",
   "git@github.com:framer/motion",
   "git@github.com:mui/material-ui",
+  "git@github.com:pmndrs/jotai",
   "git@github.com:vercel/next.js",
   "git@github.com:tailwindlabs/tailwindcss",
   "git@github.com:TanStack/query",
