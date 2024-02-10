@@ -1,0 +1,13 @@
+{
+  "name": "repos",
+  "private": true,
+  "engines": {
+    "node": ">=20.11",
+    "pnpm": ">=8.15"
+  },
+  "scripts": {
+    "sync": "node update.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

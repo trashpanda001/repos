@@ -1,8 +1,9 @@
 #!/usr/bin/env node
-const childProcess = require("child_process");
+import childProcess from "child_process";
 
 const repos = [
   "git@github.com:elixir-lang/elixir",
+  "git@github.com:facebook/lexical",
   "git@github.com:framer/motion",
   "git@github.com:mui/material-ui",
   "git@github.com:pmndrs/jotai",
