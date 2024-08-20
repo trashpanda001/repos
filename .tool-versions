@@ -1,4 +1,4 @@
 # ASDF version manager configuration: `asdf install`
 
-nodejs 20.13.1
-pnpm 9.1.2
+nodejs 20.16.0
+pnpm 9.7.1
