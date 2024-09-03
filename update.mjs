@@ -7,6 +7,7 @@ const repos = [
   "git@github.com:framer/motion",
   "git@github.com:mui/material-ui",
   "git@github.com:pmndrs/jotai",
+  "git@github.com:shadcn-ui/ui",
   "git@github.com:tailwindlabs/tailwindcss",
   "git@github.com:TanStack/query",
   "git@github.com:react-hook-form/react-hook-form",
