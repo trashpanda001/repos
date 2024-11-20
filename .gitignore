@@ -1,15 +1,12 @@
-# filesystem detritus
-.DS_Store
-
-# repos
-/elixir
-/jotai
-/lexical
-/material-ui
-/motion
-/next.js
-/react-hook-form
-/sentry-javascript
-/tailwindcss
-/query
-/ui
+/elixir/
+/jotai/
+/lexical/
+/material-ui/
+/motion/
+/next.js/
+/react-hook-form/
+/redis-py/
+/sentry-javascript/
+/tailwindcss/
+/query/
+/ui/

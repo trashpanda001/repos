@@ -11,6 +11,7 @@ const repos = [
   "git@github.com:shadcn-ui/ui",
   "git@github.com:tailwindlabs/tailwindcss",
   "git@github.com:TanStack/query",
+  "git@github.com:redis/redis-py",
   "git@github.com:react-hook-form/react-hook-form",
   "git@github.com:vercel/next.js",
 ];
