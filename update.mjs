@@ -8,6 +8,7 @@ const repos = [
   "git@github.com:facebook/lexical",
   "git@github.com:framer/motion",
   "git@github.com:getsentry/sentry-javascript",
+  "git@github.com:magicstack/asyncpg",
   "git@github.com:mui/material-ui",
   "git@github.com:pmndrs/jotai",
   "git@github.com:shadcn-ui/ui",
