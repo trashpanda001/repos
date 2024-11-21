@@ -4,6 +4,7 @@ import childProcess from "child_process";
 const repos = [
   "git@github.com:elixir-lang/elixir",
   "git@github.com:encode/starlette",
+  "git@github.com:encode/uvicorn",
   "git@github.com:facebook/lexical",
   "git@github.com:framer/motion",
   "git@github.com:getsentry/sentry-javascript",
